@@ -9,6 +9,6 @@ using namespace std;
 
 void main()
 {
-	cout << "hello world"; 
+	cout << "bs"; 
 }
 
